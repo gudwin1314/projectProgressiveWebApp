@@ -1,2 +1,2 @@
 # projectProgressiveWebApp
-A responsive web app.
+- Our simple e-commerce progressive web app (PWA) is a project developed for the Progressive Web Application program. It offers real-time data manipulation powered by Firestore, allowing products to be added and updated directly from the products page, instantly reflecting on the home page. The app also includes push notifications to keep you informed and location permissions to deliver personalized content based on your location.
